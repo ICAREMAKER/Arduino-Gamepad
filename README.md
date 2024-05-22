@@ -5,7 +5,11 @@
 
 ## KEYBOARD.h
 
-| KEY | HEXA | Name | Release | Notes |
-| :----: | :-------: | ---- | :-----: | :---- |
-|KEY_UP_ARROW | STM32F100C4<br>STM32F100C6 | Generic Board | *2.0.0* |  |
-![key1](https://github.com/ICAREMAKER/Arduino-Gamepad/assets/107696317/d0073b75-b2c2-45bc-bda4-144ea04bcfe6)
+| KEY | HEXADECIMAL | DECIMAL |
+| :----: | :-------: | :---- |
+|KEY_UP_ARROW | 0xDA | 218 |
+|KEY_UP_DOWN |  0xD9 | 217 |
+|KEY_UP_LEFT |  0xD8 | 216 |
+|KEY_UP_RIGHT | 0xD7 | 215 |
+|KEY_KP_1 | 0xE1 | 225 |
+|KEY_KP_2 | 0xE2 | 226 |
