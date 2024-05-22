@@ -57,7 +57,7 @@ void loop()
     
     if(digitalRead(boutonActionB)==LOW)
     {
-      Keyboard.press(0xD9);   // FLECHE HAUT
+      Keyboard.press(0xD9);   // FLECHE BAS
       delay(100);
       Keyboard.releaseAll();
       delay(100);
